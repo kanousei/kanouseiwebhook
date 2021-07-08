@@ -1,5 +1,5 @@
 {
-  "endpoint": "https://example.com/test",
+  "endpoint": "https://kanouseiwebhook",
   "active": true,
     "success": true,
     "timestamp": "2020-09-30T05:38:20.031Z",
