@@ -6,7 +6,7 @@ public class Protypev1 {
 	
 	public static void main(String[] args) {
 		
-		String channelSecret = '6722502cf6fe4c9c0d19c7ffbe6fc8ff';
+		String channelSecret = '１';
 		String httpRequestBody = 'info.json'; // Request body string
 		SecretKeySpec key = new SecretKeySpec(channelSecret.getBytes(), "HmacSHA256");
 		Mac mac = Mac.getInstance("HmacSHA256");
